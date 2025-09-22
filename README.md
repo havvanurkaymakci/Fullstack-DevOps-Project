@@ -56,5 +56,6 @@ Projenin amacı, **DevOps süreçlerini uçtan uca uygulamalı olarak göstermek
 ## 📦 Kurulum
 1. Projeyi klonlayın:  
    ```bash
-   git clone https://github.com/havvanurkaymakci/Devops.git
-   cd Devops
+   git clone https://github.com/havvanurkaymakci/Fullstack-Devops-Project.git
+   cd Fullstack-Devops-Project
+
